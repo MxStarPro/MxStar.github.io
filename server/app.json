@@ -1,12 +1,12 @@
 {
-  "update_url": "",
+  "update_url": "1",
   
-  "new_version": "",
+  "new_version": "1",
   
   "tv_url": "https://texasb.5v.pl/mxstar/tv.json",
   
-  "video_url": "",
+  "video_url": "http://texasb.5v.pl/mxstar/video.php",
   
-  "music_url": ""
+  "music_url": "http://texasb.5v.pl/mxstar/music.php"
   
 }
