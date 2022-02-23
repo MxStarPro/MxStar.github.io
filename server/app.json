@@ -5,8 +5,8 @@
   
   "tv_url": "https://mxstarpro.github.io/MxStar.github.io/server/tv.json",
   
-  "video_url": "https://texasb.5v.pl/mxstar/video.php",
+  "video_url": "http://mx-star.cf/video.php",
   
-  "music_url": "https://texasb.5v.pl/mxstar/music.php"
+  "music_url": "http://mx-star.cf/music.php"
   
 }
